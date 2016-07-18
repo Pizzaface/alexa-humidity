@@ -1,0 +1,9 @@
+getHumidIntent Whats the Humidity outside
+getHumidIntent humidity
+getHumidIntent how humid is it
+getHumidIntent how humid is it outside
+
+getPressureIntent whats the pressure outside
+getPressureIntent is the pressure falling
+getPressureIntent what is the pressure
+getPressureIntent pressure

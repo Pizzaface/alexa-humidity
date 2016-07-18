@@ -1,0 +1,19 @@
+{
+  "intents": [
+    {
+      "intent": "getHumidIntent"
+    },
+    {
+      "intent": "getPressureIntent"
+    },
+    {
+      "intent": "AMAZON.HelpIntent"
+    },
+    {
+    	"intent": "AMAZON.StopIntent"
+    },
+    {
+    	"intent": "AMAZON.CancelIntent"
+    }
+  ]
+}
